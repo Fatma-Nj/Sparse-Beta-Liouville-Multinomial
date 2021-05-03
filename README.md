@@ -8,7 +8,6 @@ Published in 16th International Conference on Document Analysis and Recognition,
 DATA FILES
 ============================================================
 - Emotion_data
-- 
 - hatespeech_data
 
 This file contains all the text datasets used in this article
