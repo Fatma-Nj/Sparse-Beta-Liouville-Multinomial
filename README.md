@@ -1,4 +1,4 @@
-# Sparse-Beta-Liouville
+# Sparse-Beta-Liouville-Multinomial
 Sparse Document Analysis using Beta-Liouville Naive Bayes with Vocabulary Knowledge 
 
 Fatma Najar and Nizar Bouguila  
