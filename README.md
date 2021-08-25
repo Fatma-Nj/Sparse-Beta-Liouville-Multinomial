@@ -17,7 +17,7 @@ ALGORITHMS FILES
 ===========================================================
 - beta_liouville_bayesian.py
 
-*the python code that contains the implementation of the saprsse Beta-liouville naive bayes
+*the python code that contains the implementation of the sparse Beta-liouville naive bayes
 The splitting of training/testing set is randomly affected that's why we run and average over 10 times the algorihtm 
 Each run gives a slight different results.
 
